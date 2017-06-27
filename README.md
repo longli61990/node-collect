@@ -1,3 +1,5 @@
+详情可查看wiki
+
 1、stsSync  fs.exists 函数的同步版。检查指定路径的文件或者目录是否存在。<br>
 2、shortid 用于创建不重复的且对Url友好的唯一字串ID https://github.com/dylang/shortid<br>
 3、Axon 基于zeromq思想的 面向消息的socket库 https://github.com/tj/axon<br>
