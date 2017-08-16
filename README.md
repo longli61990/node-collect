@@ -15,6 +15,7 @@
 13. blessed：非常酷的node.js 的高级终端接口库，在终端上实现可交互的界面。https://github.com/chjj/blessed  http://www.oschina.net/p/blessed<br>
 14. Moment.js：提供丰富的功能来处理日期和时间，与时间相关操作用这个组件基本都可以搞定了，http://momentjs.com/<br>
 15. dnode：性能不错的rpc组件 https://github.com/substack/dnode<br>
+15. difflib：队列，文件差异比较 https://github.com/qiao/difflib.js<br>
 
 ### 日志
 
